@@ -12,8 +12,11 @@ Ejecutar:
 
 ## Ejecución del programa
 Ejecutar (puede ser necesario usar python en vez de python3 dependiendo de la configuración del sistema):
+
 	python3 conexion.py
 	python3 sphero_swarm.py
 
 Ejecutar en ejemplo_leader_follower(puede ser necesario usar python en vez de python3 dependiendo de la configuración del sistema):
+
 	python3 leader.py
+	python3 follower.py
