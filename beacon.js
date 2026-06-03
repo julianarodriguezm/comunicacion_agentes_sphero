@@ -8,8 +8,7 @@ async function sendWeakIRMessage() {
 
     while (true) {
         sendIRMessage(0, 1);
-        // speak("Mensaje enviado", false);
-        await delay(0.2);
+        await delay(0.1);
     }
 }
 
